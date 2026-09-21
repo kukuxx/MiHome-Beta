@@ -1,6 +1,7 @@
 name: iOS
 
 on:
+  workflow_dispatch:
   push:
     paths:
       - 'MiHome-iOS.py'
@@ -11,7 +12,6 @@ on:
       - '.github/workflows/ios.yml'
     branches: [ "*" ]
   schedule:
-    - cron: '0 5 * * *'
     - cron: '0 17 * * *'
 
 jobs:
@@ -43,7 +43,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           if [[ -n $(git status --porcelain) ]]; then
             git add .
-            build_number=$(cat MiHome-iOS.cache.txt)
+            build_number=$(cat MiHome-iOS.xcode26-db.cache.txt)
             git commit -m "Update $build_number"
             git push
           fi
