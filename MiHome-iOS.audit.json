@@ -9,21 +9,7 @@
     "ipa": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/ipa/MiHome-ios-Feature-build16573.ipa",
     "plist": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/plist/MiHome-ios-Feature-build16573.plist"
   },
-  "pending_builds": [
-    17228,
-    17376,
-    17381,
-    17398,
-    17448,
-    17615,
-    17645,
-    17650,
-    17775,
-    17779,
-    17870,
-    18221,
-    18434
-  ],
+  "pending_builds": [],
   "rows": [
     {
       "build": 14373,
@@ -20084,11 +20070,9 @@
     {
       "build": 17228,
       "attempts": [
-        "retryable",
-        "retryable",
-        "retryable"
+        "http_error"
       ],
-      "status": "retryable"
+      "status": "http_error"
     },
     {
       "build": 17229,
@@ -21123,11 +21107,9 @@
     {
       "build": 17376,
       "attempts": [
-        "retryable",
-        "retryable",
-        "retryable"
+        "http_error"
       ],
-      "status": "retryable"
+      "status": "http_error"
     },
     {
       "build": 17377,
@@ -21160,11 +21142,9 @@
     {
       "build": 17381,
       "attempts": [
-        "retryable",
-        "retryable",
-        "retryable"
+        "http_error"
       ],
-      "status": "retryable"
+      "status": "http_error"
     },
     {
       "build": 17382,
@@ -21281,11 +21261,9 @@
     {
       "build": 17398,
       "attempts": [
-        "retryable",
-        "retryable",
-        "retryable"
+        "http_error"
       ],
-      "status": "retryable"
+      "status": "http_error"
     },
     {
       "build": 17399,
@@ -21634,11 +21612,9 @@
     {
       "build": 17448,
       "attempts": [
-        "retryable",
-        "retryable",
-        "retryable"
+        "http_error"
       ],
-      "status": "retryable"
+      "status": "http_error"
     },
     {
       "build": 17449,
@@ -22805,11 +22781,9 @@
     {
       "build": 17615,
       "attempts": [
-        "retryable",
-        "retryable",
-        "retryable"
+        "http_error"
       ],
-      "status": "retryable"
+      "status": "http_error"
     },
     {
       "build": 17616,
@@ -23017,11 +22991,9 @@
     {
       "build": 17645,
       "attempts": [
-        "retryable",
-        "retryable",
-        "retryable"
+        "http_error"
       ],
-      "status": "retryable"
+      "status": "http_error"
     },
     {
       "build": 17646,
@@ -23054,11 +23026,9 @@
     {
       "build": 17650,
       "attempts": [
-        "retryable",
-        "retryable",
-        "retryable"
+        "http_error"
       ],
-      "status": "retryable"
+      "status": "http_error"
     },
     {
       "build": 17651,
@@ -23931,11 +23901,9 @@
     {
       "build": 17775,
       "attempts": [
-        "retryable",
-        "retryable",
-        "retryable"
+        "http_error"
       ],
-      "status": "retryable"
+      "status": "http_error"
     },
     {
       "build": 17776,
@@ -23961,11 +23929,9 @@
     {
       "build": 17779,
       "attempts": [
-        "retryable",
-        "retryable",
-        "retryable"
+        "http_error"
       ],
-      "status": "retryable"
+      "status": "http_error"
     },
     {
       "build": 17780,
@@ -24600,11 +24566,9 @@
     {
       "build": 17870,
       "attempts": [
-        "retryable",
-        "retryable",
-        "retryable"
+        "http_error"
       ],
-      "status": "retryable"
+      "status": "http_error"
     },
     {
       "build": 17871,
@@ -27052,8 +27016,6 @@
     {
       "build": 18220,
       "attempts": [
-        "retryable",
-        "retryable",
         "http_error"
       ],
       "status": "http_error"
@@ -27061,11 +27023,9 @@
     {
       "build": 18221,
       "attempts": [
-        "retryable",
-        "retryable",
-        "retryable"
+        "http_error"
       ],
-      "status": "retryable"
+      "status": "http_error"
     },
     {
       "build": 18222,
@@ -28554,17 +28514,13 @@
     {
       "build": 18434,
       "attempts": [
-        "retryable",
-        "retryable",
-        "retryable"
+        "http_error"
       ],
-      "status": "retryable"
+      "status": "http_error"
     },
     {
       "build": 18435,
       "attempts": [
-        "retryable",
-        "retryable",
         "http_error"
       ],
       "status": "http_error"
