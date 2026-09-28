@@ -9,9 +9,7 @@
     "ipa": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/ipa/MiHome-ios-Feature-build16573.ipa",
     "plist": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/plist/MiHome-ios-Feature-build16573.plist"
   },
-  "pending_builds": [
-    17208
-  ],
+  "pending_builds": [],
   "rows": [
     {
       "build": 14373,
@@ -3126,6 +3124,8 @@
     {
       "build": 14816,
       "attempts": [
+        "retryable",
+        "retryable",
         "http_error"
       ],
       "status": "http_error"
@@ -4803,6 +4803,8 @@
     {
       "build": 15055,
       "attempts": [
+        "retryable",
+        "retryable",
         "http_error"
       ],
       "status": "http_error"
@@ -14151,6 +14153,8 @@
     {
       "build": 16386,
       "attempts": [
+        "retryable",
+        "retryable",
         "http_error"
       ],
       "status": "http_error"
@@ -15928,6 +15932,8 @@
     {
       "build": 16639,
       "attempts": [
+        "retryable",
+        "retryable",
         "http_error"
       ],
       "status": "http_error"
@@ -19930,11 +19936,9 @@
     {
       "build": 17208,
       "attempts": [
-        "retryable",
-        "retryable",
-        "retryable"
+        "http_error"
       ],
-      "status": "retryable"
+      "status": "http_error"
     },
     {
       "build": 17209,
