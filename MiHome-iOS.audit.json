@@ -24846,8 +24846,6 @@
     {
       "build": 17910,
       "attempts": [
-        "retryable",
-        "retryable",
         "http_error"
       ],
       "status": "http_error"
@@ -30679,8 +30677,6 @@
     {
       "build": 18743,
       "attempts": [
-        "retryable",
-        "retryable",
         "http_error"
       ],
       "status": "http_error"
