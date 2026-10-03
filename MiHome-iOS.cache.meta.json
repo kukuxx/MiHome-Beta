@@ -2,9 +2,5 @@
   "schema": 7,
   "build": 16573,
   "version": "11.4.100.16573",
-  "pending_builds": [
-    16129,
-    17215,
-    18316
-  ]
+  "pending_builds": []
 }
