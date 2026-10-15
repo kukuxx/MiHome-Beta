@@ -783,7 +783,6 @@
     {
       "build": 2875,
       "attempts": [
-        "retryable",
         "http_error"
       ],
       "status": "http_error"
@@ -812,7 +811,6 @@
     {
       "build": 2879,
       "attempts": [
-        "retryable",
         "http_error"
       ],
       "status": "http_error"
@@ -820,7 +818,6 @@
     {
       "build": 2880,
       "attempts": [
-        "retryable",
         "http_error"
       ],
       "status": "http_error"
@@ -849,7 +846,6 @@
     {
       "build": 2884,
       "attempts": [
-        "retryable",
         "http_error"
       ],
       "status": "http_error"
@@ -857,7 +853,6 @@
     {
       "build": 2885,
       "attempts": [
-        "retryable",
         "http_error"
       ],
       "status": "http_error"
@@ -865,7 +860,6 @@
     {
       "build": 2886,
       "attempts": [
-        "retryable",
         "http_error"
       ],
       "status": "http_error"
@@ -873,7 +867,6 @@
     {
       "build": 2887,
       "attempts": [
-        "retryable",
         "http_error"
       ],
       "status": "http_error"
@@ -896,6 +889,7 @@
     {
       "build": 2890,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "status": "http_error"
@@ -919,7 +913,6 @@
     {
       "build": 2893,
       "attempts": [
-        "retryable",
         "http_error"
       ],
       "status": "http_error"
@@ -927,7 +920,6 @@
     {
       "build": 2894,
       "attempts": [
-        "retryable",
         "http_error"
       ],
       "status": "http_error"
@@ -935,7 +927,6 @@
     {
       "build": 2895,
       "attempts": [
-        "retryable",
         "http_error"
       ],
       "status": "http_error"
@@ -951,7 +942,6 @@
     {
       "build": 2897,
       "attempts": [
-        "retryable",
         "http_error"
       ],
       "status": "http_error"
@@ -975,6 +965,7 @@
     {
       "build": 2900,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "status": "http_error"
@@ -990,6 +981,7 @@
     {
       "build": 2902,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "status": "http_error"
@@ -1004,6 +996,7 @@
     {
       "build": 2904,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "status": "http_error"
@@ -1018,6 +1011,7 @@
     {
       "build": 2906,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "status": "http_error"
@@ -2601,7 +2595,6 @@
     {
       "build": 3132,
       "attempts": [
-        "retryable",
         "http_error"
       ],
       "status": "http_error"
@@ -2623,7 +2616,6 @@
     {
       "build": 3135,
       "attempts": [
-        "retryable",
         "http_error"
       ],
       "status": "http_error"
@@ -2638,7 +2630,6 @@
     {
       "build": 3137,
       "attempts": [
-        "retryable",
         "http_error"
       ],
       "status": "http_error"
@@ -2646,7 +2637,6 @@
     {
       "build": 3138,
       "attempts": [
-        "retryable",
         "http_error"
       ],
       "status": "http_error"
@@ -2654,7 +2644,6 @@
     {
       "build": 3139,
       "attempts": [
-        "retryable",
         "http_error"
       ],
       "status": "http_error"
@@ -2662,7 +2651,6 @@
     {
       "build": 3140,
       "attempts": [
-        "retryable",
         "http_error"
       ],
       "status": "http_error"
@@ -2670,7 +2658,6 @@
     {
       "build": 3141,
       "attempts": [
-        "retryable",
         "http_error"
       ],
       "status": "http_error"
@@ -2685,7 +2672,6 @@
     {
       "build": 3143,
       "attempts": [
-        "retryable",
         "http_error"
       ],
       "status": "http_error"
@@ -2693,7 +2679,6 @@
     {
       "build": 3144,
       "attempts": [
-        "retryable",
         "http_error"
       ],
       "status": "http_error"
@@ -2701,7 +2686,6 @@
     {
       "build": 3145,
       "attempts": [
-        "retryable",
         "http_error"
       ],
       "status": "http_error"
@@ -2709,7 +2693,6 @@
     {
       "build": 3146,
       "attempts": [
-        "retryable",
         "http_error"
       ],
       "status": "http_error"
@@ -2717,7 +2700,6 @@
     {
       "build": 3147,
       "attempts": [
-        "retryable",
         "http_error"
       ],
       "status": "http_error"
@@ -5056,6 +5038,7 @@
     {
       "build": 3481,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "status": "http_error"
@@ -5063,6 +5046,7 @@
     {
       "build": 3482,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "status": "http_error"
@@ -5070,6 +5054,7 @@
     {
       "build": 3483,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "status": "http_error"
@@ -5077,6 +5062,7 @@
     {
       "build": 3484,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "status": "http_error"
@@ -5084,6 +5070,7 @@
     {
       "build": 3485,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "status": "http_error"
@@ -5091,6 +5078,7 @@
     {
       "build": 3486,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "status": "http_error"
@@ -5098,6 +5086,7 @@
     {
       "build": 3487,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "status": "http_error"
@@ -5105,6 +5094,7 @@
     {
       "build": 3488,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "status": "http_error"
@@ -5112,6 +5102,7 @@
     {
       "build": 3489,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "status": "http_error"
@@ -5119,6 +5110,7 @@
     {
       "build": 3490,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "status": "http_error"
@@ -7821,7 +7813,6 @@
     {
       "build": 3876,
       "attempts": [
-        "retryable",
         "http_error"
       ],
       "status": "http_error"
@@ -7829,7 +7820,6 @@
     {
       "build": 3877,
       "attempts": [
-        "retryable",
         "http_error"
       ],
       "status": "http_error"
@@ -7837,7 +7827,6 @@
     {
       "build": 3878,
       "attempts": [
-        "retryable",
         "http_error"
       ],
       "status": "http_error"
@@ -7845,7 +7834,6 @@
     {
       "build": 3879,
       "attempts": [
-        "retryable",
         "http_error"
       ],
       "status": "http_error"
@@ -7853,7 +7841,6 @@
     {
       "build": 3880,
       "attempts": [
-        "retryable",
         "http_error"
       ],
       "status": "http_error"
@@ -7861,7 +7848,6 @@
     {
       "build": 3881,
       "attempts": [
-        "retryable",
         "http_error"
       ],
       "status": "http_error"
@@ -7869,7 +7855,6 @@
     {
       "build": 3882,
       "attempts": [
-        "retryable",
         "http_error"
       ],
       "status": "http_error"
@@ -7877,7 +7862,6 @@
     {
       "build": 3883,
       "attempts": [
-        "retryable",
         "http_error"
       ],
       "status": "http_error"
@@ -7885,7 +7869,6 @@
     {
       "build": 3884,
       "attempts": [
-        "retryable",
         "http_error"
       ],
       "status": "http_error"
@@ -7893,7 +7876,6 @@
     {
       "build": 3885,
       "attempts": [
-        "retryable",
         "http_error"
       ],
       "status": "http_error"
@@ -7908,7 +7890,6 @@
     {
       "build": 3887,
       "attempts": [
-        "retryable",
         "http_error"
       ],
       "status": "http_error"
