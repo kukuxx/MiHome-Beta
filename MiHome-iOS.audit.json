@@ -1648,7 +1648,6 @@
     {
       "build": 14606,
       "attempts": [
-        "retryable",
         "http_error"
       ],
       "status": "http_error"
@@ -11172,7 +11171,6 @@
     {
       "build": 15961,
       "attempts": [
-        "retryable",
         "http_error"
       ],
       "status": "http_error"
@@ -22671,7 +22669,6 @@
     {
       "build": 17599,
       "attempts": [
-        "retryable",
         "http_error"
       ],
       "status": "http_error"
