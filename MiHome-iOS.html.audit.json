@@ -2,2078 +2,9 @@
   "schema": 7,
   "rows": [
     {
-      "build": 2141,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2141.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2142,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2142.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2143,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2143.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2144,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2144.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2145,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2145.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2146,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2146.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2147,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2147.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2148,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2148.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2149,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2149.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2150,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2150.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2151,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2151.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2152,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2152.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2153,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2153.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2154,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2154.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2155,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2155.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2156,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2156.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2157,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2157.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2158,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2158.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2159,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2159.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2160,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2160.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2161,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2161.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2162,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2162.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2163,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2163.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2164,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2164.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2165,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2165.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2166,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2166.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2167,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2167.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2168,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2168.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2169,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2169.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2170,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2170.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2171,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2171.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2172,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2172.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2173,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2173.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2174,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2174.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2175,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2175.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2176,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2176.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2177,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2177.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2178,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2178.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2179,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2179.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2180,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2180.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2181,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2181.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2182,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2182.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2183,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2183.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2184,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2184.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2185,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2185.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2186,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2186.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2187,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2187.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2188,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2188.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2189,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2189.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2190,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2190.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2191,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2191.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2192,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2192.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2193,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2193.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2194,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2194.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2195,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2195.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2196,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2196.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2197,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2197.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2198,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2198.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2199,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2199.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2200,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2200.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2201,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2201.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2202,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2202.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2203,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2203.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2204,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2204.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2205,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2205.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2206,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2206.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2207,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2207.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2208,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2208.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2209,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2209.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2210,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2210.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2211,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2211.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2212,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2212.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2213,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2213.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2214,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2214.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2215,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2215.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2216,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2216.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2217,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2217.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2218,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2218.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2219,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2219.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2220,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2220.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2221,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2221.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2222,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2222.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2223,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2223.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2224,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2224.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2225,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2225.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2226,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2226.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2227,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2227.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2228,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2228.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2229,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2229.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2230,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2230.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2231,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2231.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2232,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2232.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2233,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2233.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2234,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2234.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2235,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2235.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2236,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2236.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2237,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2237.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2238,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2238.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2239,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2239.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2240,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2240.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2241,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2241.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2242,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2242.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2243,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2243.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2244,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2244.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2245,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2245.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2246,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2246.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2247,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2247.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2248,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2248.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2249,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2249.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2250,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2250.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2251,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2251.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2252,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2252.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2253,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2253.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2254,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2254.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2255,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2255.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2256,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2256.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2257,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2257.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2258,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2258.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2259,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2259.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2260,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2260.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2261,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2261.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2262,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2262.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2263,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2263.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2264,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2264.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2265,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2265.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2266,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2266.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2267,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2267.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2268,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2268.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2269,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2269.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2270,
-      "attempts": [
-        "ok"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2270.html",
-      "status": "ok",
-      "http_status": 206,
-      "candidates": [
-        {
-          "url": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/plist/MiHome-ios-xcode26-db-build2270.plist",
-          "status": "ok",
-          "http_status": 200,
-          "version": "11.8.100.2270",
-          "ipa": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/ipa/MiHome-ios-xcode26-db-build2270.ipa"
-        }
-      ],
-      "version": "11.8.100.2270",
-      "parsed_results": [
-        {
-          "build": 2270,
-          "version": "11.8.100.2270",
-          "ipa": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/ipa/MiHome-ios-xcode26-db-build2270.ipa",
-          "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2270.html",
-          "plist": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/plist/MiHome-ios-xcode26-db-build2270.plist"
-        }
-      ]
-    },
-    {
-      "build": 2271,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2271.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2272,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2272.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2273,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2273.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2274,
-      "attempts": [
-        "retryable",
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2274.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2275,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2275.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2276,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2276.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2277,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2277.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2278,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2278.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2279,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2279.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2280,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2280.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2281,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2281.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2282,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2282.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2283,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2283.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2284,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2284.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2285,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2285.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2286,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2286.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2287,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2287.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2288,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2288.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2289,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2289.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2290,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2290.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2291,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2291.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2292,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2292.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2293,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2293.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2294,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2294.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2295,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2295.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2296,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2296.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2297,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2297.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2298,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2298.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2299,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2299.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2300,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2300.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2301,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2301.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2302,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2302.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2303,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2303.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2304,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2304.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2305,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2305.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2306,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2306.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2307,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2307.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2308,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2308.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2309,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2309.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2310,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2310.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2311,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2311.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2312,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2312.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2313,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2313.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2314,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2314.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2315,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2315.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2316,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2316.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2317,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2317.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2318,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2318.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2319,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2319.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2320,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2320.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2321,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2321.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2322,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2322.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2323,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2323.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2324,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2324.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2325,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2325.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2326,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2326.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2327,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2327.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2328,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2328.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2329,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2329.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2330,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2330.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2331,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2331.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2332,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2332.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2333,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2333.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
-      "build": 2334,
-      "attempts": [
-        "http_error"
-      ],
-      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2334.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
-    },
-    {
       "build": 2335,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2335.html",
@@ -2084,6 +15,7 @@
     {
       "build": 2336,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2336.html",
@@ -2094,6 +26,7 @@
     {
       "build": 2337,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2337.html",
@@ -2104,6 +37,7 @@
     {
       "build": 2338,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2338.html",
@@ -2114,6 +48,7 @@
     {
       "build": 2339,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2339.html",
@@ -2124,6 +59,7 @@
     {
       "build": 2340,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2340.html",
@@ -2134,6 +70,7 @@
     {
       "build": 2341,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2341.html",
@@ -2144,6 +81,7 @@
     {
       "build": 2342,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2342.html",
@@ -2154,6 +92,7 @@
     {
       "build": 2343,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2343.html",
@@ -2164,6 +103,7 @@
     {
       "build": 2344,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2344.html",
@@ -2174,6 +114,7 @@
     {
       "build": 2345,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2345.html",
@@ -2184,6 +125,7 @@
     {
       "build": 2346,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2346.html",
@@ -2194,6 +136,7 @@
     {
       "build": 2347,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2347.html",
@@ -2204,6 +147,7 @@
     {
       "build": 2348,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2348.html",
@@ -2214,6 +158,7 @@
     {
       "build": 2349,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2349.html",
@@ -2224,6 +169,7 @@
     {
       "build": 2350,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2350.html",
@@ -2234,6 +180,7 @@
     {
       "build": 2351,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2351.html",
@@ -2244,6 +191,7 @@
     {
       "build": 2352,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2352.html",
@@ -2254,6 +202,7 @@
     {
       "build": 2353,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2353.html",
@@ -2264,6 +213,7 @@
     {
       "build": 2354,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2354.html",
@@ -2274,6 +224,7 @@
     {
       "build": 2355,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2355.html",
@@ -2284,6 +235,7 @@
     {
       "build": 2356,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2356.html",
@@ -2294,6 +246,7 @@
     {
       "build": 2357,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2357.html",
@@ -2304,6 +257,7 @@
     {
       "build": 2358,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2358.html",
@@ -2314,6 +268,7 @@
     {
       "build": 2359,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2359.html",
@@ -2324,6 +279,7 @@
     {
       "build": 2360,
       "attempts": [
+        "retryable",
         "ok"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2360.html",
@@ -2352,6 +308,7 @@
     {
       "build": 2361,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2361.html",
@@ -2362,6 +319,7 @@
     {
       "build": 2362,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2362.html",
@@ -2372,6 +330,7 @@
     {
       "build": 2363,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2363.html",
@@ -2382,6 +341,7 @@
     {
       "build": 2364,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2364.html",
@@ -2392,6 +352,7 @@
     {
       "build": 2365,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2365.html",
@@ -2402,6 +363,7 @@
     {
       "build": 2366,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2366.html",
@@ -2412,6 +374,7 @@
     {
       "build": 2367,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2367.html",
@@ -2422,6 +385,7 @@
     {
       "build": 2368,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2368.html",
@@ -2432,6 +396,7 @@
     {
       "build": 2369,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2369.html",
@@ -2442,6 +407,7 @@
     {
       "build": 2370,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2370.html",
@@ -2452,6 +418,7 @@
     {
       "build": 2371,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2371.html",
@@ -2462,6 +429,7 @@
     {
       "build": 2372,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2372.html",
@@ -2472,6 +440,7 @@
     {
       "build": 2373,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2373.html",
@@ -2482,6 +451,7 @@
     {
       "build": 2374,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2374.html",
@@ -2492,6 +462,7 @@
     {
       "build": 2375,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2375.html",
@@ -2502,6 +473,7 @@
     {
       "build": 2376,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2376.html",
@@ -2512,6 +484,7 @@
     {
       "build": 2377,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2377.html",
@@ -2522,6 +495,7 @@
     {
       "build": 2378,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2378.html",
@@ -2532,6 +506,7 @@
     {
       "build": 2379,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2379.html",
@@ -2542,6 +517,7 @@
     {
       "build": 2380,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2380.html",
@@ -2552,6 +528,7 @@
     {
       "build": 2381,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2381.html",
@@ -2562,6 +539,7 @@
     {
       "build": 2382,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2382.html",
@@ -2572,6 +550,7 @@
     {
       "build": 2383,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2383.html",
@@ -2582,6 +561,7 @@
     {
       "build": 2384,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2384.html",
@@ -2592,6 +572,7 @@
     {
       "build": 2385,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2385.html",
@@ -2602,6 +583,7 @@
     {
       "build": 2386,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2386.html",
@@ -2612,6 +594,7 @@
     {
       "build": 2387,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2387.html",
@@ -2622,6 +605,7 @@
     {
       "build": 2388,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2388.html",
@@ -2632,6 +616,7 @@
     {
       "build": 2389,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2389.html",
@@ -2642,6 +627,7 @@
     {
       "build": 2390,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2390.html",
@@ -2652,6 +638,7 @@
     {
       "build": 2391,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2391.html",
@@ -2662,6 +649,7 @@
     {
       "build": 2392,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2392.html",
@@ -2672,6 +660,7 @@
     {
       "build": 2393,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2393.html",
@@ -2682,6 +671,7 @@
     {
       "build": 2394,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2394.html",
@@ -2692,6 +682,7 @@
     {
       "build": 2395,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2395.html",
@@ -2702,6 +693,7 @@
     {
       "build": 2396,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2396.html",
@@ -2712,6 +704,7 @@
     {
       "build": 2397,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2397.html",
@@ -2796,30 +789,20 @@
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2405.html",
       "status": "ok",
-      "http_status": 206,
+      "http_status": 200,
       "candidates": [
         {
           "url": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/plist/MiHome-ios-Feature-build2405.plist",
-          "status": "ok",
-          "http_status": 200,
-          "version": "8.7.100.2405",
-          "ipa": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/ipa/MiHome-ios-Feature-build2405.ipa"
+          "status": "retryable",
+          "http_status": 0
         }
       ],
-      "version": "8.7.100.2405",
-      "parsed_results": [
-        {
-          "build": 2405,
-          "version": "8.7.100.2405",
-          "ipa": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/ipa/MiHome-ios-Feature-build2405.ipa",
-          "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2405.html",
-          "plist": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/plist/MiHome-ios-Feature-build2405.plist"
-        }
-      ]
+      "version": "8.7"
     },
     {
       "build": 2406,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2406.html",
@@ -2830,6 +813,7 @@
     {
       "build": 2407,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2407.html",
@@ -2840,6 +824,7 @@
     {
       "build": 2408,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2408.html",
@@ -2850,6 +835,7 @@
     {
       "build": 2409,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2409.html",
@@ -2860,6 +846,7 @@
     {
       "build": 2410,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2410.html",
@@ -2870,6 +857,7 @@
     {
       "build": 2411,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2411.html",
@@ -2880,6 +868,7 @@
     {
       "build": 2412,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2412.html",
@@ -2890,6 +879,7 @@
     {
       "build": 2413,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2413.html",
@@ -2900,6 +890,7 @@
     {
       "build": 2414,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2414.html",
@@ -2910,6 +901,7 @@
     {
       "build": 2415,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2415.html",
@@ -2920,6 +912,7 @@
     {
       "build": 2416,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2416.html",
@@ -2930,6 +923,7 @@
     {
       "build": 2417,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2417.html",
@@ -2940,6 +934,7 @@
     {
       "build": 2418,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2418.html",
@@ -2950,6 +945,7 @@
     {
       "build": 2419,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2419.html",
@@ -2970,6 +966,7 @@
     {
       "build": 2421,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2421.html",
@@ -2980,6 +977,7 @@
     {
       "build": 2422,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2422.html",
@@ -2990,6 +988,7 @@
     {
       "build": 2423,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2423.html",
@@ -3000,6 +999,7 @@
     {
       "build": 2424,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2424.html",
@@ -3010,6 +1010,7 @@
     {
       "build": 2425,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2425.html",
@@ -3020,6 +1021,7 @@
     {
       "build": 2426,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2426.html",
@@ -3030,6 +1032,7 @@
     {
       "build": 2427,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2427.html",
@@ -3040,6 +1043,7 @@
     {
       "build": 2428,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2428.html",
@@ -3050,6 +1054,7 @@
     {
       "build": 2429,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2429.html",
@@ -3060,6 +1065,7 @@
     {
       "build": 2430,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2430.html",
@@ -3070,6 +1076,7 @@
     {
       "build": 2431,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2431.html",
@@ -3080,6 +1087,7 @@
     {
       "build": 2432,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2432.html",
@@ -3090,6 +1098,7 @@
     {
       "build": 2433,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2433.html",
@@ -3100,6 +1109,7 @@
     {
       "build": 2434,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2434.html",
@@ -3110,6 +1120,7 @@
     {
       "build": 2435,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2435.html",
@@ -3120,6 +1131,7 @@
     {
       "build": 2436,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2436.html",
@@ -3220,6 +1232,7 @@
     {
       "build": 2446,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2446.html",
@@ -3320,7 +1333,6 @@
     {
       "build": 2456,
       "attempts": [
-        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2456.html",
@@ -3331,7 +1343,6 @@
     {
       "build": 2457,
       "attempts": [
-        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2457.html",
@@ -3342,7 +1353,6 @@
     {
       "build": 2458,
       "attempts": [
-        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2458.html",
@@ -3353,7 +1363,6 @@
     {
       "build": 2459,
       "attempts": [
-        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2459.html",
@@ -3364,7 +1373,6 @@
     {
       "build": 2460,
       "attempts": [
-        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2460.html",
@@ -3385,7 +1393,6 @@
     {
       "build": 2462,
       "attempts": [
-        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2462.html",
@@ -3396,6 +1403,7 @@
     {
       "build": 2463,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2463.html",
@@ -3438,7 +1446,6 @@
     {
       "build": 2467,
       "attempts": [
-        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2467.html",
@@ -3449,7 +1456,6 @@
     {
       "build": 2468,
       "attempts": [
-        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2468.html",
@@ -3460,7 +1466,6 @@
     {
       "build": 2469,
       "attempts": [
-        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2469.html",
@@ -3471,6 +1476,7 @@
     {
       "build": 2470,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2470.html",
@@ -3491,6 +1497,7 @@
     {
       "build": 2472,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2472.html",
@@ -3531,6 +1538,7 @@
     {
       "build": 2476,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2476.html",
@@ -3601,6 +1609,7 @@
     {
       "build": 2483,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2483.html",
@@ -3611,6 +1620,7 @@
     {
       "build": 2484,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2484.html",
@@ -3621,6 +1631,7 @@
     {
       "build": 2485,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2485.html",
@@ -3631,6 +1642,7 @@
     {
       "build": 2486,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2486.html",
@@ -3641,6 +1653,7 @@
     {
       "build": 2487,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2487.html",
@@ -3681,6 +1694,7 @@
     {
       "build": 2491,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2491.html",
@@ -3899,11 +1913,22 @@
       "candidates": [
         {
           "url": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/plist/MiHome-ios-Feature-build2512.plist",
-          "status": "retryable",
-          "http_status": 0
+          "status": "ok",
+          "http_status": 200,
+          "version": "8.7.101.2512",
+          "ipa": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/ipa/MiHome-ios-Feature-build2512.ipa"
         }
       ],
-      "version": "8.7"
+      "version": "8.7.101.2512",
+      "parsed_results": [
+        {
+          "build": 2512,
+          "version": "8.7.101.2512",
+          "ipa": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/ipa/MiHome-ios-Feature-build2512.ipa",
+          "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2512.html",
+          "plist": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/plist/MiHome-ios-Feature-build2512.plist"
+        }
+      ]
     },
     {
       "build": 2513,
@@ -3998,7 +2023,6 @@
     {
       "build": 2522,
       "attempts": [
-        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2522.html",
@@ -4069,7 +2093,6 @@
     {
       "build": 2529,
       "attempts": [
-        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2529.html",
@@ -5140,6 +3163,7 @@
     {
       "build": 2636,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2636.html",
@@ -5150,6 +3174,7 @@
     {
       "build": 2637,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2637.html",
@@ -5160,6 +3185,7 @@
     {
       "build": 2638,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2638.html",
@@ -5170,6 +3196,7 @@
     {
       "build": 2639,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2639.html",
@@ -5190,6 +3217,7 @@
     {
       "build": 2641,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2641.html",
@@ -5200,6 +3228,7 @@
     {
       "build": 2642,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2642.html",
@@ -5210,6 +3239,7 @@
     {
       "build": 2643,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2643.html",
@@ -5220,6 +3250,7 @@
     {
       "build": 2644,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2644.html",
@@ -5230,6 +3261,7 @@
     {
       "build": 2645,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2645.html",
@@ -8467,22 +6499,11 @@
       "candidates": [
         {
           "url": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/plist/MiHome-ios-Feature-build2960.plist",
-          "status": "ok",
-          "http_status": 200,
-          "version": "8.8.199.2960",
-          "ipa": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/ipa/MiHome-ios-Feature-build2960.ipa"
+          "status": "retryable",
+          "http_status": 0
         }
       ],
-      "version": "8.8.199.2960",
-      "parsed_results": [
-        {
-          "build": 2960,
-          "version": "8.8.199.2960",
-          "ipa": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/ipa/MiHome-ios-Feature-build2960.ipa",
-          "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2960.html",
-          "plist": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/plist/MiHome-ios-Feature-build2960.plist"
-        }
-      ]
+      "version": "8.8"
     },
     {
       "build": 2961,
@@ -8577,28 +6598,16 @@
     {
       "build": 2970,
       "attempts": [
-        "ok"
+        "parse_failed"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2970.html",
-      "status": "ok",
+      "status": "parse_failed",
       "http_status": 206,
       "candidates": [
         {
           "url": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/plist/MiHome-ios-xcode26-db-build2970.plist",
-          "status": "ok",
-          "http_status": 200,
-          "version": "11.9.200.2970",
-          "ipa": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/ipa/MiHome-ios-xcode26-db-build2970.ipa"
-        }
-      ],
-      "version": "11.9.200.2970",
-      "parsed_results": [
-        {
-          "build": 2970,
-          "version": "11.9.200.2970",
-          "ipa": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/ipa/MiHome-ios-xcode26-db-build2970.ipa",
-          "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2970.html",
-          "plist": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/plist/MiHome-ios-xcode26-db-build2970.plist"
+          "status": "retryable",
+          "http_status": 0
         }
       ]
     },
@@ -8615,6 +6624,7 @@
     {
       "build": 2972,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2972.html",
@@ -8715,6 +6725,7 @@
     {
       "build": 2982,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2982.html",
@@ -8725,6 +6736,7 @@
     {
       "build": 2983,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2983.html",
@@ -8775,6 +6787,7 @@
     {
       "build": 2988,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2988.html",
@@ -8855,7 +6868,6 @@
     {
       "build": 2996,
       "attempts": [
-        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2996.html",
@@ -8866,7 +6878,6 @@
     {
       "build": 2997,
       "attempts": [
-        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2997.html",
@@ -8877,7 +6888,6 @@
     {
       "build": 2998,
       "attempts": [
-        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2998.html",
@@ -8888,7 +6898,6 @@
     {
       "build": 2999,
       "attempts": [
-        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2999.html",
@@ -8899,7 +6908,6 @@
     {
       "build": 3000,
       "attempts": [
-        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome3000.html",
@@ -8910,7 +6918,6 @@
     {
       "build": 3001,
       "attempts": [
-        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome3001.html",
@@ -8921,7 +6928,6 @@
     {
       "build": 3002,
       "attempts": [
-        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome3002.html",
@@ -8932,7 +6938,6 @@
     {
       "build": 3003,
       "attempts": [
-        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome3003.html",
@@ -8943,7 +6948,6 @@
     {
       "build": 3004,
       "attempts": [
-        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome3004.html",
@@ -8954,7 +6958,6 @@
     {
       "build": 3005,
       "attempts": [
-        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome3005.html",
@@ -9315,7 +7318,6 @@
     {
       "build": 3041,
       "attempts": [
-        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome3041.html",
@@ -9326,7 +7328,6 @@
     {
       "build": 3042,
       "attempts": [
-        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome3042.html",
@@ -9441,15 +7442,26 @@
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome3053.html",
       "status": "ok",
-      "http_status": 206,
+      "http_status": 200,
       "candidates": [
         {
           "url": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/plist/MiHome-ios-Feature-build3053.plist",
-          "status": "retryable",
-          "http_status": 0
+          "status": "ok",
+          "http_status": 200,
+          "version": "8.9.100.3053.3053",
+          "ipa": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/ipa/MiHome-ios-Feature-build3053.ipa"
         }
       ],
-      "version": "8.9"
+      "version": "8.9.100.3053.3053",
+      "parsed_results": [
+        {
+          "build": 3053,
+          "version": "8.9.100.3053.3053",
+          "ipa": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/ipa/MiHome-ios-Feature-build3053.ipa",
+          "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome3053.html",
+          "plist": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/plist/MiHome-ios-Feature-build3053.plist"
+        }
+      ]
     },
     {
       "build": 3054,
@@ -9604,7 +7616,6 @@
     {
       "build": 3069,
       "attempts": [
-        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome3069.html",
@@ -9615,7 +7626,6 @@
     {
       "build": 3070,
       "attempts": [
-        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome3070.html",
@@ -9696,7 +7706,6 @@
     {
       "build": 3078,
       "attempts": [
-        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome3078.html",
@@ -10077,28 +8086,16 @@
     {
       "build": 3116,
       "attempts": [
-        "ok"
+        "parse_failed"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome3116.html",
-      "status": "ok",
+      "status": "parse_failed",
       "http_status": 206,
       "candidates": [
         {
           "url": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/plist/MiHome-ios-xcode26-db-build3116.plist",
-          "status": "ok",
-          "http_status": 200,
-          "version": "11.9.201.3116",
-          "ipa": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/ipa/MiHome-ios-xcode26-db-build3116.ipa"
-        }
-      ],
-      "version": "11.9.201.3116",
-      "parsed_results": [
-        {
-          "build": 3116,
-          "version": "11.9.201.3116",
-          "ipa": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/ipa/MiHome-ios-xcode26-db-build3116.ipa",
-          "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome3116.html",
-          "plist": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/plist/MiHome-ios-xcode26-db-build3116.plist"
+          "status": "retryable",
+          "http_status": 0
         }
       ]
     },
@@ -10349,26 +8346,15 @@
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome3141.html",
       "status": "ok",
-      "http_status": 200,
+      "http_status": 206,
       "candidates": [
         {
           "url": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/plist/MiHome-ios-xcode26-db-build3141.plist",
-          "status": "ok",
-          "http_status": 200,
-          "version": "11.10.100.3141",
-          "ipa": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/ipa/MiHome-ios-xcode26-db-build3141.ipa"
+          "status": "retryable",
+          "http_status": 0
         }
       ],
-      "version": "11.10.100.3141",
-      "parsed_results": [
-        {
-          "build": 3141,
-          "version": "11.10.100.3141",
-          "ipa": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/ipa/MiHome-ios-xcode26-db-build3141.ipa",
-          "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome3141.html",
-          "plist": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/plist/MiHome-ios-xcode26-db-build3141.plist"
-        }
-      ]
+      "version": "11.10"
     },
     {
       "build": 3142,
@@ -10543,6 +8529,7 @@
     {
       "build": 3159,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome3159.html",
@@ -11671,6 +9658,7 @@
     {
       "build": 3270,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome3270.html",
@@ -11681,6 +9669,7 @@
     {
       "build": 3271,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome3271.html",
@@ -11691,6 +9680,7 @@
     {
       "build": 3272,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome3272.html",
@@ -11701,6 +9691,7 @@
     {
       "build": 3273,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome3273.html",
@@ -11711,6 +9702,7 @@
     {
       "build": 3274,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome3274.html",
@@ -11731,6 +9723,7 @@
     {
       "build": 3276,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome3276.html",
@@ -12141,6 +10134,7 @@
     {
       "build": 3317,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome3317.html",
@@ -12321,28 +10315,16 @@
     {
       "build": 3335,
       "attempts": [
-        "ok"
+        "parse_failed"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome3335.html",
-      "status": "ok",
+      "status": "parse_failed",
       "http_status": 206,
       "candidates": [
         {
           "url": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/plist/MiHome-ios-xcode26-db-build3335.plist",
-          "status": "ok",
-          "http_status": 200,
-          "version": "11.10.3335",
-          "ipa": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/ipa/MiHome-ios-xcode26-db-build3335.ipa"
-        }
-      ],
-      "version": "11.10.3335",
-      "parsed_results": [
-        {
-          "build": 3335,
-          "version": "11.10.3335",
-          "ipa": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/ipa/MiHome-ios-xcode26-db-build3335.ipa",
-          "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome3335.html",
-          "plist": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/plist/MiHome-ios-xcode26-db-build3335.plist"
+          "status": "retryable",
+          "http_status": 0
         }
       ]
     },
@@ -12407,22 +10389,11 @@
       "candidates": [
         {
           "url": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/plist/MiHome-ios-Feature-build3341.plist",
-          "status": "ok",
-          "http_status": 200,
-          "version": "7.10.100.3341",
-          "ipa": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/ipa/MiHome-ios-Feature-build3341.ipa"
+          "status": "retryable",
+          "http_status": 0
         }
       ],
-      "version": "7.10.100.3341",
-      "parsed_results": [
-        {
-          "build": 3341,
-          "version": "7.10.100.3341",
-          "ipa": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/ipa/MiHome-ios-Feature-build3341.ipa",
-          "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome3341.html",
-          "plist": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/plist/MiHome-ios-Feature-build3341.plist"
-        }
-      ]
+      "version": "8.10"
     },
     {
       "build": 3342,
@@ -12477,6 +10448,7 @@
     {
       "build": 3347,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome3347.html",
@@ -12617,12 +10589,30 @@
     {
       "build": 3361,
       "attempts": [
-        "http_error"
+        "ok"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome3361.html",
-      "status": "http_error",
-      "http_status": 403,
-      "candidates": []
+      "status": "ok",
+      "http_status": 206,
+      "candidates": [
+        {
+          "url": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/plist/MiHome-ios-xcode26-db-build3361.plist",
+          "status": "ok",
+          "http_status": 200,
+          "version": "11.10.200.3361",
+          "ipa": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/ipa/MiHome-ios-xcode26-db-build3361.ipa"
+        }
+      ],
+      "version": "11.10.200.3361",
+      "parsed_results": [
+        {
+          "build": 3361,
+          "version": "11.10.200.3361",
+          "ipa": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/ipa/MiHome-ios-xcode26-db-build3361.ipa",
+          "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome3361.html",
+          "plist": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/plist/MiHome-ios-xcode26-db-build3361.plist"
+        }
+      ]
     },
     {
       "build": 3362,
@@ -13613,6 +11603,7 @@
     {
       "build": 3457,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome3457.html",
@@ -13623,6 +11614,7 @@
     {
       "build": 3458,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome3458.html",
@@ -13633,6 +11625,7 @@
     {
       "build": 3459,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome3459.html",
@@ -13643,6 +11636,7 @@
     {
       "build": 3460,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome3460.html",
@@ -13653,6 +11647,7 @@
     {
       "build": 3461,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome3461.html",
@@ -13663,6 +11658,7 @@
     {
       "build": 3462,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome3462.html",
@@ -13673,62 +11669,39 @@
     {
       "build": 3463,
       "attempts": [
-        "ok"
+        "parse_failed"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome3463.html",
-      "status": "ok",
+      "status": "parse_failed",
       "http_status": 206,
       "candidates": [
         {
           "url": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/plist/MiHome-ios-Feature-build3463.plist",
-          "status": "ok",
-          "http_status": 200,
-          "version": "8.10.199.3463",
-          "ipa": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/ipa/MiHome-ios-Feature-build3463.ipa"
-        }
-      ],
-      "version": "8.10.199.3463",
-      "parsed_results": [
-        {
-          "build": 3463,
-          "version": "8.10.199.3463",
-          "ipa": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/ipa/MiHome-ios-Feature-build3463.ipa",
-          "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome3463.html",
-          "plist": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/plist/MiHome-ios-Feature-build3463.plist"
+          "status": "retryable",
+          "http_status": 0
         }
       ]
     },
     {
       "build": 3464,
       "attempts": [
-        "ok"
+        "parse_failed"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome3464.html",
-      "status": "ok",
+      "status": "parse_failed",
       "http_status": 206,
       "candidates": [
         {
           "url": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/plist/MiHome-ios-Feature-build3464.plist",
-          "status": "ok",
-          "http_status": 200,
-          "version": "8.10.199.3464",
-          "ipa": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/ipa/MiHome-ios-Feature-build3464.ipa"
-        }
-      ],
-      "version": "8.10.199.3464",
-      "parsed_results": [
-        {
-          "build": 3464,
-          "version": "8.10.199.3464",
-          "ipa": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/ipa/MiHome-ios-Feature-build3464.ipa",
-          "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome3464.html",
-          "plist": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/plist/MiHome-ios-Feature-build3464.plist"
+          "status": "retryable",
+          "http_status": 0
         }
       ]
     },
     {
       "build": 3465,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome3465.html",
@@ -13779,6 +11752,7 @@
     {
       "build": 3470,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome3470.html",
@@ -13799,6 +11773,7 @@
     {
       "build": 3472,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome3472.html",
@@ -18671,7 +16646,7 @@
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome3948.html",
       "status": "ok",
-      "http_status": 200,
+      "http_status": 206,
       "candidates": [
         {
           "url": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/plist/MiHome-ios-Feature-build3948.plist",
@@ -20636,6 +18611,2018 @@
         "http_error"
       ],
       "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4141.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4142,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4142.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4143,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4143.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4144,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4144.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4145,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4145.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4146,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4146.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4147,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4147.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4148,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4148.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4149,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4149.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4150,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4150.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4151,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4151.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4152,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4152.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4153,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4153.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4154,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4154.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4155,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4155.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4156,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4156.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4157,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4157.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4158,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4158.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4159,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4159.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4160,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4160.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4161,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4161.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4162,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4162.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4163,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4163.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4164,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4164.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4165,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4165.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4166,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4166.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4167,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4167.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4168,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4168.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4169,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4169.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4170,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4170.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4171,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4171.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4172,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4172.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4173,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4173.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4174,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4174.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4175,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4175.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4176,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4176.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4177,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4177.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4178,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4178.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4179,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4179.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4180,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4180.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4181,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4181.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4182,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4182.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4183,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4183.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4184,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4184.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4185,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4185.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4186,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4186.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4187,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4187.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4188,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4188.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4189,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4189.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4190,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4190.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4191,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4191.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4192,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4192.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4193,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4193.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4194,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4194.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4195,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4195.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4196,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4196.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4197,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4197.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4198,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4198.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4199,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4199.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4200,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4200.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4201,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4201.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4202,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4202.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4203,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4203.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4204,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4204.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4205,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4205.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4206,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4206.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4207,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4207.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4208,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4208.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4209,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4209.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4210,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4210.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4211,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4211.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4212,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4212.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4213,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4213.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4214,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4214.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4215,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4215.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4216,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4216.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4217,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4217.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4218,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4218.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4219,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4219.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4220,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4220.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4221,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4221.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4222,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4222.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4223,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4223.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4224,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4224.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4225,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4225.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4226,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4226.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4227,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4227.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4228,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4228.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4229,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4229.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4230,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4230.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4231,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4231.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4232,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4232.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4233,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4233.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4234,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4234.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4235,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4235.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4236,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4236.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4237,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4237.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4238,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4238.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4239,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4239.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4240,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4240.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4241,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4241.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4242,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4242.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4243,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4243.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4244,
+      "attempts": [
+        "ok"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4244.html",
+      "status": "ok",
+      "http_status": 206,
+      "candidates": [
+        {
+          "url": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/plist/MiHome-ios-Feature-build4244.plist",
+          "status": "ok",
+          "http_status": 200,
+          "version": "9.0.100.4244",
+          "ipa": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/ipa/MiHome-ios-Feature-build4244.ipa"
+        }
+      ],
+      "version": "9.0.100.4244",
+      "parsed_results": [
+        {
+          "build": 4244,
+          "version": "9.0.100.4244",
+          "ipa": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/ipa/MiHome-ios-Feature-build4244.ipa",
+          "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4244.html",
+          "plist": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/plist/MiHome-ios-Feature-build4244.plist"
+        }
+      ]
+    },
+    {
+      "build": 4245,
+      "attempts": [
+        "ok"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4245.html",
+      "status": "ok",
+      "http_status": 200,
+      "candidates": [
+        {
+          "url": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/plist/MiHome-ios-Feature-build4245.plist",
+          "status": "ok",
+          "http_status": 200,
+          "version": "9.0.100.4245",
+          "ipa": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/ipa/MiHome-ios-Feature-build4245.ipa"
+        }
+      ],
+      "version": "9.0.100.4245",
+      "parsed_results": [
+        {
+          "build": 4245,
+          "version": "9.0.100.4245",
+          "ipa": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/ipa/MiHome-ios-Feature-build4245.ipa",
+          "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4245.html",
+          "plist": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/plist/MiHome-ios-Feature-build4245.plist"
+        }
+      ]
+    },
+    {
+      "build": 4246,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4246.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4247,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4247.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4248,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4248.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4249,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4249.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4250,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4250.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4251,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4251.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4252,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4252.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4253,
+      "attempts": [
+        "ok"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4253.html",
+      "status": "ok",
+      "http_status": 206,
+      "candidates": [
+        {
+          "url": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/plist/MiHome-ios-Feature-build4253.plist",
+          "status": "ok",
+          "http_status": 200,
+          "version": "9.0.100.4253",
+          "ipa": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/ipa/MiHome-ios-Feature-build4253.ipa"
+        }
+      ],
+      "version": "9.0.100.4253",
+      "parsed_results": [
+        {
+          "build": 4253,
+          "version": "9.0.100.4253",
+          "ipa": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/ipa/MiHome-ios-Feature-build4253.ipa",
+          "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4253.html",
+          "plist": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/plist/MiHome-ios-Feature-build4253.plist"
+        }
+      ]
+    },
+    {
+      "build": 4254,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4254.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4255,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4255.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4256,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4256.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4257,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4257.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4258,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4258.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4259,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4259.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4260,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4260.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4261,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4261.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4262,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4262.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4263,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4263.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4264,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4264.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4265,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4265.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4266,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4266.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4267,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4267.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4268,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4268.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4269,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4269.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4270,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4270.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4271,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4271.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4272,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4272.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4273,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4273.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4274,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4274.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4275,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4275.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4276,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4276.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4277,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4277.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4278,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4278.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4279,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4279.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4280,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4280.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4281,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4281.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4282,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4282.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4283,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4283.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4284,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4284.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4285,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4285.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4286,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4286.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4287,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4287.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4288,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4288.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4289,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4289.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4290,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4290.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4291,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4291.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4292,
+      "attempts": [
+        "ok"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4292.html",
+      "status": "ok",
+      "http_status": 206,
+      "candidates": [
+        {
+          "url": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/plist/MiHome-ios-Feature-build4292.plist",
+          "status": "ok",
+          "http_status": 200,
+          "version": "9.0.100.4292",
+          "ipa": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/ipa/MiHome-ios-Feature-build4292.ipa"
+        }
+      ],
+      "version": "9.0.100.4292",
+      "parsed_results": [
+        {
+          "build": 4292,
+          "version": "9.0.100.4292",
+          "ipa": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/ipa/MiHome-ios-Feature-build4292.ipa",
+          "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4292.html",
+          "plist": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/plist/MiHome-ios-Feature-build4292.plist"
+        }
+      ]
+    },
+    {
+      "build": 4293,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4293.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4294,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4294.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4295,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4295.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4296,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4296.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4297,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4297.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4298,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4298.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4299,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4299.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4300,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4300.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4301,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4301.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4302,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4302.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4303,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4303.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4304,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4304.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4305,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4305.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4306,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4306.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4307,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4307.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4308,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4308.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4309,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4309.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4310,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4310.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4311,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4311.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4312,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4312.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4313,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4313.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4314,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4314.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4315,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4315.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4316,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4316.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4317,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4317.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4318,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4318.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4319,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4319.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4320,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4320.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4321,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4321.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4322,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4322.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4323,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4323.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4324,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4324.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4325,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4325.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4326,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4326.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4327,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4327.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4328,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4328.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4329,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4329.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4330,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4330.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4331,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4331.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4332,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4332.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4333,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4333.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4334,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4334.html",
+      "status": "http_error",
+      "http_status": 403,
+      "candidates": []
+    },
+    {
+      "build": 4335,
+      "attempts": [
+        "http_error"
+      ],
+      "html": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome4335.html",
       "status": "http_error",
       "http_status": 403,
       "candidates": []
