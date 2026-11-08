@@ -6060,7 +6060,6 @@
     {
       "build": 15234,
       "attempts": [
-        "retryable",
         "http_error"
       ],
       "status": "http_error"
@@ -15534,7 +15533,6 @@
     {
       "build": 16583,
       "attempts": [
-        "retryable",
         "http_error"
       ],
       "status": "http_error"
