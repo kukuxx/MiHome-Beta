@@ -1,13 +1,13 @@
 11.10.3335 https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome3335.html
 11.10.3335 https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome3335.html
 11.10.200.3361 https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome3361.html
+11.10.200.3361 https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome3361.html
 11.10.100.3141 https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome3141.html
 11.10.100.3141 https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome3141.html
 11.10 https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome3141.html
 11.9.201.3116 https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome3116.html
 11.9.201.3116 https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome3116.html
 11.9.200.2970 https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2970.html
-11.9.100.2779 https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2779.html
 11.9.100.2779 https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2779.html
 11.9 https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2779.html
 11.8.100.2270 https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome2270.html
@@ -158,12 +158,12 @@
 8.10.199.3464 https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome3464.html
 8.10.199.3464 https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome3464.html
 8.10.199.3463 https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome3463.html
+8.10.199.3463 https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome3463.html
 8.10 https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome3368.html
 8.10 https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome3341.html
 8.9.201.3390 https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome3390.html
 8.9.201.3390 https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome3390.html
 8.9.201 https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome3390.html
-8.9.200.3201 https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome3201.html
 8.9.200.3201 https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome3201.html
 8.9.100.3053.3053 https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome3053.html
 8.9.100.3053.3053 https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome3053.html
@@ -248,6 +248,7 @@
 7.11.100.15216 https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome15216.html
 7.10.100.14805 https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome14805.html
 7.10.100.14743 https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome14743.html
+7.10.100.3341 https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome3341.html
 7.10.100.3341 https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome3341.html
 7.9.100.14521 https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome14521.html
 7.9.100.14383 https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/MiHome14383.html
