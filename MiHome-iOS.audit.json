@@ -10,11 +10,21 @@
     "plist": "https://cdn.cnbj1.fds.api.mi-img.com/mijia-ios-adhoc/AppStore/adhoc/plist/MiHome-ios-Feature-build16573.plist"
   },
   "pending_builds": [
-    14476,
-    15265,
-    16063,
-    16823,
-    17669
+    15409,
+    15441,
+    15493,
+    15626,
+    15993,
+    16113,
+    16289,
+    16440,
+    16768,
+    16855,
+    17057,
+    17216,
+    17641,
+    17741,
+    17938
   ],
   "rows": [
     {
@@ -742,11 +752,9 @@
     {
       "build": 14476,
       "attempts": [
-        "retryable",
-        "retryable",
-        "retryable"
+        "http_error"
       ],
-      "status": "retryable"
+      "status": "http_error"
     },
     {
       "build": 14477,
@@ -6287,11 +6295,9 @@
     {
       "build": 15265,
       "attempts": [
-        "retryable",
-        "retryable",
-        "retryable"
+        "http_error"
       ],
-      "status": "retryable"
+      "status": "http_error"
     },
     {
       "build": 15266,
@@ -6556,6 +6562,8 @@
     {
       "build": 15303,
       "attempts": [
+        "retryable",
+        "retryable",
         "http_error"
       ],
       "status": "http_error"
@@ -7304,9 +7312,11 @@
     {
       "build": 15409,
       "attempts": [
-        "http_error"
+        "retryable",
+        "retryable",
+        "retryable"
       ],
-      "status": "http_error"
+      "status": "retryable"
     },
     {
       "build": 15410,
@@ -7529,9 +7539,11 @@
     {
       "build": 15441,
       "attempts": [
-        "http_error"
+        "retryable",
+        "retryable",
+        "retryable"
       ],
-      "status": "http_error"
+      "status": "retryable"
     },
     {
       "build": 15442,
@@ -7894,9 +7906,11 @@
     {
       "build": 15493,
       "attempts": [
-        "http_error"
+        "retryable",
+        "retryable",
+        "retryable"
       ],
-      "status": "http_error"
+      "status": "retryable"
     },
     {
       "build": 15494,
@@ -8826,9 +8840,11 @@
     {
       "build": 15626,
       "attempts": [
-        "http_error"
+        "retryable",
+        "retryable",
+        "retryable"
       ],
-      "status": "http_error"
+      "status": "retryable"
     },
     {
       "build": 15627,
@@ -11405,9 +11421,11 @@
     {
       "build": 15993,
       "attempts": [
-        "http_error"
+        "retryable",
+        "retryable",
+        "retryable"
       ],
-      "status": "http_error"
+      "status": "retryable"
     },
     {
       "build": 15994,
@@ -11594,6 +11612,7 @@
     {
       "build": 16020,
       "attempts": [
+        "retryable",
         "http_error"
       ],
       "status": "http_error"
@@ -11895,11 +11914,9 @@
     {
       "build": 16063,
       "attempts": [
-        "retryable",
-        "retryable",
-        "retryable"
+        "http_error"
       ],
-      "status": "retryable"
+      "status": "http_error"
     },
     {
       "build": 16064,
@@ -12247,9 +12264,11 @@
     {
       "build": 16113,
       "attempts": [
-        "http_error"
+        "retryable",
+        "retryable",
+        "retryable"
       ],
-      "status": "http_error"
+      "status": "retryable"
     },
     {
       "build": 16114,
@@ -13481,9 +13500,11 @@
     {
       "build": 16289,
       "attempts": [
-        "http_error"
+        "retryable",
+        "retryable",
+        "retryable"
       ],
-      "status": "http_error"
+      "status": "retryable"
     },
     {
       "build": 16290,
@@ -14539,9 +14560,11 @@
     {
       "build": 16440,
       "attempts": [
-        "http_error"
+        "retryable",
+        "retryable",
+        "retryable"
       ],
-      "status": "http_error"
+      "status": "retryable"
     },
     {
       "build": 16441,
@@ -16845,9 +16868,11 @@
     {
       "build": 16768,
       "attempts": [
-        "http_error"
+        "retryable",
+        "retryable",
+        "retryable"
       ],
-      "status": "http_error"
+      "status": "retryable"
     },
     {
       "build": 16769,
@@ -17233,11 +17258,9 @@
     {
       "build": 16823,
       "attempts": [
-        "retryable",
-        "retryable",
-        "retryable"
+        "http_error"
       ],
-      "status": "retryable"
+      "status": "http_error"
     },
     {
       "build": 16824,
@@ -17460,9 +17483,11 @@
     {
       "build": 16855,
       "attempts": [
-        "http_error"
+        "retryable",
+        "retryable",
+        "retryable"
       ],
-      "status": "http_error"
+      "status": "retryable"
     },
     {
       "build": 16856,
@@ -18879,9 +18904,11 @@
     {
       "build": 17057,
       "attempts": [
-        "http_error"
+        "retryable",
+        "retryable",
+        "retryable"
       ],
-      "status": "http_error"
+      "status": "retryable"
     },
     {
       "build": 17058,
@@ -19999,9 +20026,11 @@
     {
       "build": 17216,
       "attempts": [
-        "http_error"
+        "retryable",
+        "retryable",
+        "retryable"
       ],
-      "status": "http_error"
+      "status": "retryable"
     },
     {
       "build": 17217,
@@ -22977,9 +23006,11 @@
     {
       "build": 17641,
       "attempts": [
-        "http_error"
+        "retryable",
+        "retryable",
+        "retryable"
       ],
-      "status": "http_error"
+      "status": "retryable"
     },
     {
       "build": 17642,
@@ -23173,11 +23204,9 @@
     {
       "build": 17669,
       "attempts": [
-        "retryable",
-        "retryable",
-        "retryable"
+        "http_error"
       ],
-      "status": "retryable"
+      "status": "http_error"
     },
     {
       "build": 17670,
@@ -23679,9 +23708,11 @@
     {
       "build": 17741,
       "attempts": [
-        "http_error"
+        "retryable",
+        "retryable",
+        "retryable"
       ],
-      "status": "http_error"
+      "status": "retryable"
     },
     {
       "build": 17742,
@@ -25058,9 +25089,11 @@
     {
       "build": 17938,
       "attempts": [
-        "http_error"
+        "retryable",
+        "retryable",
+        "retryable"
       ],
-      "status": "http_error"
+      "status": "retryable"
     },
     {
       "build": 17939,
